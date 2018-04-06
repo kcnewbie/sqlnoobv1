@@ -2,10 +2,10 @@
 #coded by kcnewbie
 #thanks to NMAP
 
-echo -e "SqlNoob v.1 Scanner"
-echo -e " -------------------------------"
-echo -e "| usage: ./sqlscan.sh           "
-echo -e "--------------------------------"
+echo "             SqlNoob v.1 Scanner           "
+echo " ------------------------------------------"
+echo "| usage for mass: ./sqlscan.sh -f site.txt |"
+echo " ------------------------------------------"
 
 
 case $1 in
