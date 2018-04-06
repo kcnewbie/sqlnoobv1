@@ -1,5 +1,6 @@
 #!/bin/bash
 #coded by kcnewbie
+#thanks to NMAP
 
 echo -e "SqlNoob v.1 Scanner"
 echo -e " -------------------------------"
